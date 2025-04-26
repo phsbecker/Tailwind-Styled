@@ -1,5 +1,3 @@
-# React + TypeScript + Vite
-
 FUNCIONAMENTO:
 Na tela inicial, insira o nome da conta do usuário do github que deseja pesquisar. Então escolha entre
 "Tailwind CSS" ou "Styled-Components" para ir para uma tela apresentando o avatar, nome, id e bio do usuário
@@ -7,7 +5,7 @@ pesquisado, estilizada com Tailwind CSS ou Styled-Components respecticamente. Ca
 exista, será exibida uma mensagem notificando que o usuário não foi encontrado.
 
 
-
+# React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
