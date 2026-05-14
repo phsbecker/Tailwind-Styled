@@ -10,7 +10,7 @@ export default function Home(){
             <div className="flex flex-col p-6 items-center bg-gray-200 rounded-xl border-black border-5">
                 <input value={userNome}
                 onChange={(element) => setUserNome(element.target.value)}
-                placeholder="Nome do usuário"
+                placeholder="Nome do guri"
                 className="text-black border-5 border-black rounded-xl text-2xl text-center p-2 mb-6 bg-gray-300"/>
                 
                 <button className="bg-black rounded-lg text-white text-2xl font-bold p-4 cursor-pointer mb-2"
